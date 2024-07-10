@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity() {
             }
             else{
 
+
             val peso = edtPeso.text.toString().toFloat()
             val altura = edtAltura.text.toString().toFloat()
 
